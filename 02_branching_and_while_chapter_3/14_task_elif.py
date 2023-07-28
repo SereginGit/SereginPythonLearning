@@ -17,7 +17,7 @@ elif prediction == 2:
 	print("\nДенег не будет")
 elif prediction == 3:
 	time.sleep(1)
-	print("\nНежили богато, не стоит начинать")
+	print("\nНе жили богато, не стоит начинать")
 elif prediction == 4:
 	time.sleep(1)
 	print("\nБудет средне: еда, вода, кое-что из бытовой техники")
