@@ -9,10 +9,10 @@ time.sleep(1)
 name = input("Привет, как тебя зовут?\n\n") 
 
 print("")
-time.sleep(2)
+time.sleep(1)
 
-print(name,"???")
-time.sleep(2) 
+print(name, end="???\n")
+time.sleep(1) 
 
-print("\nНу привет,", name) 
+print("\nНу привет,", name, end="!\n") 
 input("\nHaжмитe Enter, чтобы выйти.")
