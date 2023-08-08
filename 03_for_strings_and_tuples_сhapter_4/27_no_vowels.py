@@ -12,7 +12,7 @@ for letter in message:
         new_message += letter 
         print("Создана новая строка ", new_message) 
 print("\nBoт ваш текст с изъятыми гласными буквами:", new_message) 
-input("\nHaжмитe Enter. чтобы выйти.")
+input("\nHaжмитe Enter, чтобы выйти.")
 
 
 #Переменные со сплошь прописными буквами в именах обладают особым значением. 
